@@ -7,9 +7,9 @@ const int relay3 = D6;
 const int relay4 = D7;
 
 // Do WiFi and MQTT stuff
-const char* ssid      = "whiskeygrid";
-const char* password  = "7A6U6QM0RQ0Z";
-const char* mqttServ  = "192.168.1.31";
+const char* ssid      = "fdsafdasdf";
+const char* password  = "asdfsdfdad";
+const char* mqttServ  = "192.168.1.123";
 const char* clientID  = "SwitchNode0_0";
 const char* debugTopic= "whiskeygrid/debug";
 const char* connTopic = "whiskeygrid/debug/connect";
